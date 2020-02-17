@@ -43,25 +43,12 @@ window.onload = () => {
 function staticLoadPlaces() {
     return [
         {
-            name: "NewCastle",
-            location: {
-                lat: 43.452011, // change here latitude if using static data
-                lng: -79.758562, // change here longitude if using static data
-            },
-            name: "Val",
-            location: {
-                lat: 43.452050, // change here latitude if using static data
-                lng: -79.758618, // change here longitude if using static data
-            },
+            
+            
             name: "LetItSnow",
             location: {
                 lat: 43.451708, // change here latitude if using static data
                 lng: -79.757862, // change here longitude if using static data
-            },
-            name: "Freshco",
-            location: {
-                lat: 43.448576, // change here latitude if using static data
-                lng: -79.775589, // change here longitude if using static data
             }
         },
     ];

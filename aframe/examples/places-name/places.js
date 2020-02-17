@@ -36,6 +36,11 @@ function staticLoadPlaces() {
             location: {
                 lat: 43.452011, // change here latitude if using static data
                 lng: -79.758562, // change here longitude if using static data
+            },
+            name: "Freshco",
+            location: {
+                lat: 43.448576, // change here latitude if using static data
+                lng: -79.775589, // change here longitude if using static data
             }
         },
     ];

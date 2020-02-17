@@ -43,8 +43,6 @@ window.onload = () => {
 function staticLoadPlaces() {
     return [
         {
-            
-            
             name: "LetItSnow",
             location: {
                 lat: 43.451708, // change here latitude if using static data

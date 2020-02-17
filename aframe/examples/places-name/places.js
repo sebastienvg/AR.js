@@ -43,10 +43,10 @@ window.onload = () => {
 function staticLoadPlaces() {
     return [
         {
-            name: "LetItSnow",
+            name: "NewCastle",
             location: {
-                lat: 43.451708, // change here latitude if using static data
-                lng: -79.757862, // change here longitude if using static data
+                lat: 43.452011, // change here latitude if using static data
+                lng: -79.758562, // change here longitude if using static data
             }
         },
     ];

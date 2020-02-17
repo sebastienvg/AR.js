@@ -29,6 +29,17 @@ window.onload = () => {
     }
 };
 
+// Val 43.4520509,-79.7586184,
+// 2444 43.4521019,-79.7586863
+// 2442 43.4522007,-79.7586599
+// 2440 43.4522458,-79.7587475
+// 2438 43.4522483,-79.7588902
+// 2434 43.4523325,-79.7590238
+// 2432 43.4523328,-79.7590562
+// 2449 43.4517089,-79.7578629
+// 2451 43.4516579,-79.7577949
+// 2447 43.4517813,-79.7578721
+
 function staticLoadPlaces() {
     return [
         {
@@ -36,6 +47,16 @@ function staticLoadPlaces() {
             location: {
                 lat: 43.452011, // change here latitude if using static data
                 lng: -79.758562, // change here longitude if using static data
+            },
+            name: "Val",
+            location: {
+                lat: 43.452050, // change here latitude if using static data
+                lng: -79.758618, // change here longitude if using static data
+            },
+            name: "LetItSnow",
+            location: {
+                lat: 43.451708, // change here latitude if using static data
+                lng: -79.757862, // change here longitude if using static data
             },
             name: "Freshco",
             location: {

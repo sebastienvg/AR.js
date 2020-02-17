@@ -47,7 +47,7 @@ function staticLoadPlaces() {
             location: {
                 lat: 43.452011, // change here latitude if using static data
                 lng: -79.758562, // change here longitude if using static data
-            },
+            }
             name: "LetItSnow",
             location: {
                 lat: 43.451708, // change here latitude if using static data
